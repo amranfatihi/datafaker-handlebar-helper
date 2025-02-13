@@ -21,7 +21,7 @@ mvn clean install
 Then add the following dependency to your project's `pom.xml`:
 ```xml
 <dependency>
-    <groupId>com.cariad</groupId>
+    <groupId>com.github.amranfatihi</groupId>
     <artifactId>datafaker-handlebar-helper</artifactId>
     <version>${version}</version>
 </dependency>
