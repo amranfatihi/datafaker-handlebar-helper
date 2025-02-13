@@ -1,4 +1,4 @@
-package com.cariad;
+package com.github.amranfatihi;
 
 import com.github.jknack.handlebars.Helper;
 import com.github.jknack.handlebars.Options;
